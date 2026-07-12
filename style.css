@@ -327,6 +327,10 @@ li {
 
 /* Publications */
 
+.section .publication:first-of-type {
+  padding-top: 8px;
+}
+
 .publication {
   padding: 18px 0;
   border-bottom: 1px solid var(--border);
